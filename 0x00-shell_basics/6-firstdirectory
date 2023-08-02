@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir -m 777 /tmb/my_first_directory/
+mkdir /tmb/my_first_directory
